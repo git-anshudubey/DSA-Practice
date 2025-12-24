@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class MovingZeroesToEnd {
 
     public static void moveZeroes(int[] nums) {
         int index = 0;
